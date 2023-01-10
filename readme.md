@@ -7,6 +7,7 @@
 # [Data Types](./markdown/7.data%20types.md)
 # [Arithmetic Operatations](./markdown/8.arithmetic.md)
 # [Assignment Operators](./markdown/9.assignment.md)
+# [Google Chrome Console](./markdown/10.google%20chrome%20console.md)
 
 
 
