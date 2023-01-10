@@ -5,7 +5,8 @@
 # [Variable(var)](./markdown/5.variable(var).md)
 # [Variables(let&const)](./markdown/6.variables(let%26const).md)
 # [Data Types](./markdown/7.data%20types.md)
-# [Arithmetic Opratations](./markdown/8.arithmetic.md)
+# [Arithmetic Operatations](./markdown/8.arithmetic.md)
+# [Assignment Operators](./markdown/9.assignment.md)
 
 
 
