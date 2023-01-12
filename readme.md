@@ -8,4 +8,6 @@
 # [Arithmetic Operatations](./markdown/8.arithmetic.md)
 # [Assignment Operators](./markdown/9.assignment.md)
 # [Google Chrome Console](./markdown/10.google%20chrome%20console.md)
-# [comparison Operator](./markdown/11.comparison%20operator.md)
+# [Comparison Operator](./markdown/11.comparison%20operator.md)
+# [If Statement](./markdown/12.if%20statement.md)
+
