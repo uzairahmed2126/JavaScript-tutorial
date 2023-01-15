@@ -16,4 +16,6 @@
 # [Ternary Conditional Operator](./markdown/16.ternary%20operator.md)
 # [Switch Statement](./markdown/17.switch%20statement.md)
 # [Alert Box](./markdown/18.alert%20box.md)
+# [Confirm Box](./markdown/19.confirm.md)
+
 
