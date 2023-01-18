@@ -18,6 +18,8 @@
 # [Alert Box](./markdown/18.alert%20box.md)
 # [Confirm Box](./markdown/19.confirm.md)
 # [Prompt Box](./markdown/20.prompt%20box.md)
+# [Functions](./markdown/21.functions.md)
+
 
 
 
