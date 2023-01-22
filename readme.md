@@ -19,6 +19,8 @@
 # [Confirm Box](./markdown/19.confirm.md)
 # [Prompt Box](./markdown/20.prompt%20box.md)
 # [Functions](./markdown/21.functions.md)
+# [Functions With Parameters](./markdown/22%20functions%20with%20parameters.md)
+
 
 
 
