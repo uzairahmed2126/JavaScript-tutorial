@@ -21,6 +21,7 @@
 # [Functions](./markdown/21.functions.md)
 # [Functions With Parameters](./markdown/22%20functions%20with%20parameters.md)
 # [Functions With Return value](./markdown/23.functions%20with%20return%20value.md)
+# [Global and local variable](./markdown/24.global%20%26%20local%20variable.md)
 
 
 
