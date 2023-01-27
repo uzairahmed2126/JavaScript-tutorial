@@ -23,3 +23,4 @@
 # [Functions With Return value](./markdown/23.functions%20with%20return%20value.md)
 # [Global and local variable](./markdown/24.global%20%26%20local%20variable.md)
 # [Events](./markdown/25.events.md)
+# [While Loop](./markdown/26.while%20loop.md.md)
