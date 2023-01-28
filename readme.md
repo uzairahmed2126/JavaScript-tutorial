@@ -27,3 +27,4 @@
 # [Do While Loop](./markdown/27.do%20while%20loop.md)
 # [For Loop](./markdown/28.for%20loop.md)
 # [Break & Continue](./markdown/29.break%20continue.md)
+# [Even And Odd](./markdown/30.%20even%20and%20odd.md)
