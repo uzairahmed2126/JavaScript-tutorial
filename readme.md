@@ -29,3 +29,4 @@
 # [Break & Continue](./markdown/29.break%20continue.md)
 # [Even And Odd](./markdown/30.%20even%20and%20odd.md)
 # [Nested Loop](./markdown/31.nested%20loop.md)
+# [Nested Loop 2](./markdown/32.nested%202%20loop.md)
