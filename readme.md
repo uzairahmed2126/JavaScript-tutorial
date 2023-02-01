@@ -35,3 +35,4 @@
 # [Multidimensional Array ](./markdown/35.multidimensional%20array.md)
 # [Modify and Remove ](./markdown/36.modify%20and%20remove.md)
 # [Sort and Reverse](./markdown/37.sort%20and%20reverse.md)
+# [Pop and Push](./markdown/38.pop%20and%20push.md)
