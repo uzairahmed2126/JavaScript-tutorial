@@ -33,3 +33,4 @@
 # [Array](./markdown/33.array.md)
 # [Array 2](./markdown/34.%20array%202.md)
 # [Multidimensional Array ](./markdown/35.multidimensional%20array.md)
+# [Modify and Remove ](./markdown/36.modify%20and%20remove.md)
