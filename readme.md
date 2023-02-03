@@ -39,3 +39,4 @@
 # [Shift and Unshift](./markdown/39.shift%20and%20unshift.md)
 # [Concat and join](./markdown/40.concat%20and%20join.md)
 # [Slice and Splice](./markdown/41.slice%20and%20splice.md)
+# [isArray](./markdown/42.isarray.md)
