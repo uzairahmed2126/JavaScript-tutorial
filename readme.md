@@ -40,3 +40,4 @@
 # [Concat and join](./markdown/40.concat%20and%20join.md)
 # [Slice and Splice](./markdown/41.slice%20and%20splice.md)
 # [isArray](./markdown/42.isarray.md)
+# [indexOf and lastindex](./markdown/43.indexof%20and%20lastindexof.md)
