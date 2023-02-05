@@ -46,7 +46,7 @@
 # [find and findIndex](./markdown/46.find%20and%20findindex.md)
 # [fiter](./markdown/47.filter.md)
 # [toString , valueOf and fill](./markdown/48.tostring%20valueof%20fill.md)
-# [fiter](./markdown/49.forEach.md)
+# [forEach](./markdown/49.forEach.md)
 
 
 
