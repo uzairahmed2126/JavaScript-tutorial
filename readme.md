@@ -44,4 +44,6 @@
 # [includes](./markdown/44.include.md)
 # [some and every](./markdown/45.some%20and%20every.md)
 # [find and findIndex](./markdown/46.find%20and%20findindex.md)
+# [fiter](./markdown/47.filter.md)
+
 
