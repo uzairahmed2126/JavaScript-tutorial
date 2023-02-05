@@ -43,3 +43,5 @@
 # [indexOf and lastindexOf](./markdown/43.indexof%20and%20lastindexof.md)
 # [includes](./markdown/44.include.md)
 # [some and every](./markdown/45.some%20and%20every.md)
+# [find and findIndex](./markdown/46.find%20and%20findindex.md)
+
