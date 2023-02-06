@@ -47,6 +47,8 @@
 # [fiter](./markdown/47.filter.md)
 # [toString , valueOf and fill](./markdown/48.tostring%20valueof%20fill.md)
 # [forEach](./markdown/49.forEach.md)
+# [object](./markdown/50.object.md)
+
 
 
 
