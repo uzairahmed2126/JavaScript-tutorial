@@ -48,6 +48,8 @@
 # [toString , valueOf and fill](./markdown/48.tostring%20valueof%20fill.md)
 # [forEach](./markdown/49.forEach.md)
 # [object](./markdown/50.object.md)
+# [object part 2](./markdown/51.object%20part2.md)
+
 
 
 
