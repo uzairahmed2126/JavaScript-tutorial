@@ -49,6 +49,7 @@
 # [forEach](./markdown/49.forEach.md)
 # [object](./markdown/50.object.md)
 # [object part 2](./markdown/51.object%20part2.md)
+# [Array of Object](./markdown/52.array%20of%20object.md)
 
 
 
