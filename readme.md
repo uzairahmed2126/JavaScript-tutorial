@@ -52,6 +52,7 @@
 # [Array of Object](./markdown/52.array%20of%20object.md)
 # [Const variable with Array and Object](./markdown/53.const%20var%20with%20array%20and%20object.md)
 # [forIn Loop](./markdown/54.forIn.md)
+# [map](./markdown/55.map.md)
 
 
 
