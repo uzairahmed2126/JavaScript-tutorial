@@ -20,3 +20,14 @@ let object = {
 for (const key in object) {
      console.log(key +" : " + object[key])   
 }
+
+console.log("\n");
+
+let obj ={
+    first_name : "redmi",
+    last_name : "note 9",
+    from : "china"
+}
+for (const key in obj) {
+    console.log(key + " : " +obj[key]);
+}
