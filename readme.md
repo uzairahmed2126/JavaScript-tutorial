@@ -54,6 +54,7 @@
 # [forIn Loop](./markdown/54.forIn.md)
 # [map](./markdown/55.map.md)
 # [String methods](./markdown/56.string%20method.md)
+# [String methods part 2](./markdown/57.string%20method%20part2.md)
 
 
 
