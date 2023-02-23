@@ -19,5 +19,5 @@ let arry = [
 
 let d = arry.map(conct)
 function conct(y) {
-return  console.log(y.first)
+return  console.log(y.first);
 }
