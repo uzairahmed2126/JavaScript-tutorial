@@ -55,7 +55,8 @@
 # [map](./markdown/55.map.md)
 # [String methods](./markdown/56.string%20method.md)
 # [String methods part 2](./markdown/57.string%20method%20part2.md)
-# [Number method](./markdown/58.number%20method.md)
+# [Number methods](./markdown/58.number%20method.md)
+# [Math methods](./markdown/59.math%20methods.md)
 
 
 
