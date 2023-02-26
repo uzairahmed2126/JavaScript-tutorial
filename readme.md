@@ -57,6 +57,10 @@
 # [String methods part 2](./markdown/57.string%20method%20part2.md)
 # [Number methods](./markdown/58.number%20method.md)
 # [Math methods](./markdown/59.math%20methods.md)
+# [Date methods](./markdown/60.date%20methods.md)
+# [DOM introduction](./markdown/61.document%20object%20module.md)
+# [DOM targete](./markdown/62.DOM%20targeting%20methods.md)
+# [DOM get and set](./markdown/63.DOM%20get%20and%20set.md)
 
 
 
