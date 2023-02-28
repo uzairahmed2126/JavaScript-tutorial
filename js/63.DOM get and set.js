@@ -21,3 +21,20 @@ console.log(element);
 
 element=document.getElementById("hireme").attributes[0].name;
 console.log(element);
+
+element=document.getElementById("hireme").attributes[0].name;
+console.log(element);
+
+element=document.getElementById("h1para").attributes[0];
+console.log(element);
+
+document.getElementById("hireme").attributes[2].value = "hello";
+element = document.getElementById("hireme").getAttribute("class");
+console.log(element);
+
+element=document.getElementsByTagName("h1").item("class").attributes[0].value;
+console.log(element);
+
+document.getElementById("hireme").removeAttribute("style");
+
+
