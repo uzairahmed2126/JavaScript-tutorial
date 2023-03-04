@@ -63,6 +63,7 @@
 # [DOM get and set](./markdown/63.DOM%20get%20and%20set.md)
 # [DOM query selector](./markdown/64.DOM%20query%20selector.md)
 # [DOM CSS styling methods](./markdown/65.DOM%20css%20styling%20method.md)
+# [DOM addEventListener method](./markdown/66.DOM%20addEventListener.md)
 
 
 
