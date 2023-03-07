@@ -65,6 +65,7 @@
 # [DOM CSS styling methods](./markdown/65.DOM%20css%20styling%20method.md)
 # [DOM addEventListener method](./markdown/66.DOM%20addEventListener.md)
 # [DOM classList method](./markdown/67.DOM%20classList.md)
+# [DOM parentElement and parentNode](./markdown/68.parentElement%20parentNode.md)
 
 
 
