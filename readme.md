@@ -66,6 +66,7 @@
 # [DOM addEventListener method](./markdown/66.DOM%20addEventListener.md)
 # [DOM classList method](./markdown/67.DOM%20classList.md)
 # [DOM parentElement and parentNode](./markdown/68.parentElement%20parentNode.md)
+# [DOM Children and childNodes](./markdown/69.Children%20%26%20childNodes.md)
 
 
 
