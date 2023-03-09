@@ -67,7 +67,7 @@
 # [DOM classList method](./markdown/67.DOM%20classList.md)
 # [DOM parentElement and parentNode](./markdown/68.parentElement%20parentNode.md)
 # [DOM Children and childNodes](./markdown/69.Children%20%26%20childNodes.md)
-
+# [DOM firstChild lastChild &firstElementChild lastElementChild](./markdown/70.DOM%20firstChild%20%26%20lastChild.md)
 
 
 
