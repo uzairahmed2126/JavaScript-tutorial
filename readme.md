@@ -68,7 +68,7 @@
 # [DOM parentElement and parentNode](./markdown/68.parentElement%20parentNode.md)
 # [DOM Children and childNodes](./markdown/69.Children%20%26%20childNodes.md)
 # [DOM firstChild lastChild &firstElementChild lastElementChild](./markdown/70.DOM%20firstChild%20%26%20lastChild.md)
-
+# [DOM nextSibling and previousSibling](./markdown/71.DOM%20nextSibling%20%26%20previousSibling.md)
 
 
 
