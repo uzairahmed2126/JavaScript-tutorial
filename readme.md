@@ -70,3 +70,4 @@
 # [DOM firstChild lastChild &firstElementChild lastElementChild](./markdown/70.DOM%20firstChild%20%26%20lastChild.md)
 # [DOM nextSibling and previousSibling](./markdown/71.DOM%20nextSibling%20%26%20previousSibling.md)
 # [DOM createElement & createTextNode](./markdown/72.createElement%20%26%20createTextNode.md)
+# [DOM appendChild & insertBefore](./markdown/73.appendchild%26childbefor.md)
