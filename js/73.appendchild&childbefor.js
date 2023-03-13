@@ -4,3 +4,4 @@ newelement.appendChild(newtxt);
 // document.write(a.innerHTML);
 document.querySelector('#hireme').appendChild(newelement);
 console.log(newelement);
+// let  
