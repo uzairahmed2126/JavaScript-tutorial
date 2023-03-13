@@ -1,7 +1,11 @@
 let newelement = document.createElement("h5");
 let newtxt = document.createTextNode("Hello i  write here with the use of DOM append method");
-newelement.appendChild(newtxt);
-// document.write(a.innerHTML);
-document.querySelector('#hireme').appendChild(newelement);
-console.log(newelement);
-// let  
+    newelement.appendChild(newtxt);
+        // document.write(a.innerHTML);
+    document.querySelector('#hireme').appendChild(newelement);
+    console.log(newelement);
+let  newCmment = document.createComment("hey Do you know that JavaScript is a greate language");
+    document.getElementById("hireme").appendChild(newCmment);
+    // console.log(newCmment);
+let childb = document.getElementById("DOM").appendChild(newelement);
+childb.insertBefore(newelement,childb,childNodes[0]);
